@@ -6,8 +6,8 @@
 
 **Status:** ready-for-agent
 
-- [ ] `npm run build`와 `npm test`가 통과한다
-- [ ] 운영 Neon DB에 `npm run db:init`으로 스키마가 적용되어 있다
-- [ ] Vercel 프로젝트에 `DATABASE_URL` 환경변수가 등록되어 있다 (연결 문자열은 저장소에 커밋하지 않는다)
+- [x] `npm run build`와 `npm test`가 통과한다
+- [x] 운영 Neon DB에 `npm run db:init`으로 스키마가 적용되어 있다
+- [x] Vercel 프로젝트에 `DATABASE_URL` 환경변수가 등록되어 있다 (연결 문자열은 저장소에 커밋하지 않는다)
 - [ ] 배포된 사이트에서 작성·조회·수정·삭제, 비밀번호 불일치·글 없음 안내, 개발자 이름·학번 표시를 수동 확인했다
-- [ ] 배포 주소를 README에 적었다
+- [x] 배포 주소를 README에 적었다
